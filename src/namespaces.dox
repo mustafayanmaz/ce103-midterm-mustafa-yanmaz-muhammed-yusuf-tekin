@@ -4,22 +4,22 @@
  */
 
 /**
- * @namespace Coruh
- * @brief Root namespace for all Coruh-related code.
+ * @namespace Myt
+ * @brief Root namespace for all Myt-related code.
  *
- * This is the top-level namespace for all components, classes, and functions related to the Coruh library.
+ * This is the top-level namespace for all components, classes, and functions related to the Myt library.
  */
  
  /**
- * @namespace Coruh::Utility
+ * @namespace Myt::Utility
  * @brief Namespace for general utility functions and classes.
  *
  * This namespace contains a collection of utility functions and classes that provide commonly-used functionality.
  */
 
  /**
- * @namespace Coruh::Calculator
- * @brief Namespace for calculator functions and classes.
+ * @namespace Myt::Pharmacy
+ * @brief Namespace for pharmacy functions and classes.
  *
- * This namespace contains a collection of calculator functions and classes that provide commonly-used functionality.
+ * This namespace contains a collection of pharmacy functions and classes that provide commonly-used functionality.
  */

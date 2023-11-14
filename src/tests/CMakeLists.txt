@@ -37,8 +37,8 @@ if(ENABLE_UTILITY)
 	add_subdirectory(utility)
 endif()
 
-# Calculator tests
-if(ENABLE_CALCULATOR)
-	add_subdirectory(calculator)
+# Pharmacy tests
+if(ENABLE_PHARMACY)
+	add_subdirectory(pharmacy)
 endif()
 

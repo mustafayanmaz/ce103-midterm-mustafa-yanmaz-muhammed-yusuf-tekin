@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\pharmacy\pharmacy_test.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\pharmacy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{91155192-ECA7-3EA7-A4DB-0C308BEDE7BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

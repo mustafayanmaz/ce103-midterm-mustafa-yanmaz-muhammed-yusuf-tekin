@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/yusuf/OneDrive/Masaüstü/last/ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin/build_win/src/tests/utility/utility_tests[1]_tests.cmake")
+  include("C:/Users/yusuf/OneDrive/Masaüstü/last/ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin/build_win/src/tests/utility/utility_tests[1]_tests.cmake")
+else()
+  add_test(utility_tests_NOT_BUILT utility_tests_NOT_BUILT)
+endif()

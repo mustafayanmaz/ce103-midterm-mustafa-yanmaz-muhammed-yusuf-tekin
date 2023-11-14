@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\build_win\CMakeFiles\dfd8023c3cbb0d2f6de42f7a6f6ee9ca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66E3B2B2-FA6E-304D-8018-44B3F7AC2452}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

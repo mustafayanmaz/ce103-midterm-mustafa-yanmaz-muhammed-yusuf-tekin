@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\googletest\googlemock\src\gmock-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\googletest\googlemock\src\gmock_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\tests\googletest\googlemock\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8652A825-76B1-3D43-87FE-6BC0973F6070}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

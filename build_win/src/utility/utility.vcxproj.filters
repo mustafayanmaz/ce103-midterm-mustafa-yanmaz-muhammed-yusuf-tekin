@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\utility\src\mathUtility.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\utility\header\commonTypes.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\utility\header\mathUtility.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yusuf\OneDrive\Masaüstü\last\ce103-midterm-mustafa-yanmaz-muhammed-yusuf-tekin\src\utility\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{6AE3A93A-CA34-3683-9FF2-A49E57070BCB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{91155192-ECA7-3EA7-A4DB-0C308BEDE7BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
